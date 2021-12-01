@@ -37,6 +37,10 @@ public class DBTester {
 		 conn.query("select * from master where id= " +E.getID()+";");
 		 
 	 }
+	 
+	 public static void test()
+	 {
+	 }
 	
 }
 
